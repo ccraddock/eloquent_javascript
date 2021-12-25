@@ -1,4 +1,4 @@
-let size = 10;
+let size = 15;
 let testString = '';
 
 for(let outerIndex = 0; outerIndex < size; outerIndex++){
@@ -12,4 +12,4 @@ for(let outerIndex = 0; outerIndex < size; outerIndex++){
 
 console.log(testString);
 
-console.log(testString);
+// console.log(testString);
